@@ -1,0 +1,6 @@
+NAME=libmad
+VERSION=0.15.1b
+REVISION=1
+LICENSE=GPL-2.0-only
+SRC=ftp://ftp.mars.org/pub/mpeg/libmad-0.15.1b.tar.gz
+SRCMD5=1be543bc30c56fb6bea1d7bf6a64e66c
